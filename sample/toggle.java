@@ -14,7 +14,7 @@ class Ideone
 		int i,temp;
 		for(i=0;i<c.length;i++)
 		{
-			if(c[i]>=65 && c[i]<=97)
+			if(c[i]>=65 && c[i]<=90)
 			{
 			 temp = (int) c[i];
 			 temp = temp +32;
